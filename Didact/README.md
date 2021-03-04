@@ -3,8 +3,8 @@
 使用相同的API, 用不到200行代码编写react的工作版本
 
 原文链接：
-[构建自己的React指南][0]
-[Build your own React][1]
+  [构建自己的React指南][0]
+  [Build your own React][1]
 
 原github地址： [didact][2]
 
